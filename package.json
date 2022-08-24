@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "thomas-tests",
+  "description": "Repo for thomas to be able to run simple tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaskosciuch/thomas-tests.git"
+  },
+  "keywords": [
+    "test",
+    "thomas"
+  ],
+  "author": "thomas kosciuch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomaskosciuch/thomas-tests/issues"
+  },
+  "homepage": "https://github.com/thomaskosciuch/thomas-tests#readme"
+}
